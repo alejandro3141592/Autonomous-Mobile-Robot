@@ -13,6 +13,6 @@ This vehicle, developed by a group of professors and students from Tecnológico 
 # My role in the project
 Among my main contributions to this project, is the design of the PCB corresponding to the power phase of the steering. I also designed some 3d printed parts to be used for installing the navigation sensors in the vehicle.
 
-In the same way, I contributed significantly to the documentation of the entire vehicle, and also contributed to the realization of some of the codes for the microcontrollers in the vehicle, however, for reasons of confidentiality, I cannot share them at this time.
+In the same way, I contributed significantly to the documentation of the entire vehicle, and also contributed to the realization of some of the codes for the microcontrollers in the vehicle, however, for reasons of confidentiality, I cannot share all of them at this time.
 
 Finally, I also function as a tutor for other students in charge of harnessing the second autonomous vehicle, which would be a better version of this first vehicle, and in the last semester, I also was a mentor to teach other students the basic functioning of the vehicles.
